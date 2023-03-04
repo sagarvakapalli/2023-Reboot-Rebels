@@ -9,17 +9,26 @@
 You can find a very good reference to Github flavoured markdown reference in [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). If you want something a bit more WYSIWYG for editing then could use [StackEdit](https://stackedit.io/app) which provides a more user friendly interface for generating the Markdown code. Those of you who are [VS Code fans](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview) can edit/preview directly in that interface too.
 
 ## Team name
-⟹ Write the name of your Hackathon team here
+⟹ Reboot Rebles.
 
 ## Category
-⟹ Write the name of the selected category
+⟹ Best enhancement to SXA Headless
 
 ## Description
 ⟹ Write a clear description of your hackathon entry.  
 
-  - Module Purpose
-  - What problem was solved (if any)
-    - How does this module solve it
+idea :
+  - Welcome to the presentation on the “Custom Color Picker” developed by Reboot Rebels as part of the Sitecore hackathon 2023.
+  - Colors do play an important role in designing a website and it creates a huge impact on a user's perception.
+  - The “Custom Color Picker” is a powerful tool that allows users to create and use custom color palettes in their designs as per the website branding or scheme.
+problem : 
+-Existing Sitecore SXA does not provide a built-in color picker feature, which means that content editors and designers will have to enter the hexadecimal code manually for each component.
+-Manually entering color codes for each component can be time-consuming and error-prone, leading to inconsistencies in the website's design.
+-Implementing a website with consistent color schemes can be challenging, especially when multiple designers are working on the project.
+
+Solution : 
+The “Custom Color Picker” is a feature in Sitecore SXA that allows users to create a custom color palette that matches their brand or component visual identity.
+Users can select colors from a range of palette, saving time and ensuring consistency in the website's design.
 
 _You can alternately paste a [link here](#docs) to a document within this repo containing the description._
 
